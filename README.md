@@ -14,13 +14,12 @@
 * network.json: Udagram Project's CloudFormation script parameters.
 
 ### Infrastructure Diagram: 
-![Lucidchart Diagram]
-(./My Udagram Infrastucture.png)
+<img src="./My%20Udagram%20Infrastucture.png" width=85% >
 
 ### Helpful resources
-https://www.lucidchart.com/pages/ 
-https://docs.aws.amazon.com/cli/latest/reference/cloudformation/create-stack.html
-https://docs.aws.amazon.com/AWSCloudFormation/latest/APIReference/API_Parameter.html
-https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-anatomy.html
-https://docs.aws.amazon.com/codebuild/latest/userguide/cloudformation-vpc-template.html <br /> 
+https://www.lucidchart.com/pages/<br/> 
+https://docs.aws.amazon.com/cli/latest/reference/cloudformation/create-stack.html<br/> 
+https://docs.aws.amazon.com/AWSCloudFormation/latest/APIReference/API_Parameter.html<br > 
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-anatomy.html<br/> 
+https://docs.aws.amazon.com/codebuild/latest/userguide/cloudformation-vpc-template.html <br/> 
 https://medium.com/faun/getting-hands-dirty-with-aws-cloudformation-c20e44ea994e
