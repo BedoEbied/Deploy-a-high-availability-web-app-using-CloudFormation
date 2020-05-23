@@ -18,8 +18,18 @@
 
 ### Helpful resources
 https://www.lucidchart.com/pages/<br/> 
+https://medium.com/faun/getting-hands-dirty-with-aws-cloudformation-c20e44ea994e<br/>
+
+#### Documentation
 https://docs.aws.amazon.com/cli/latest/reference/cloudformation/create-stack.html<br/> 
-https://docs.aws.amazon.com/AWSCloudFormation/latest/APIReference/API_Parameter.html<br > 
+https://docs.aws.amazon.com/AWSCloudFormation/latest/APIReference/API_Parameter.html<br/> 
 https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-anatomy.html<br/> 
 https://docs.aws.amazon.com/codebuild/latest/userguide/cloudformation-vpc-template.html <br/> 
-https://medium.com/faun/getting-hands-dirty-with-aws-cloudformation-c20e44ea994e
+
+Parameters: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/parameters-section-structure.html <br/>
+LoadBalancer URL: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-elasticloadbalancingv2-loadbalancer.html <br/>
+TargetGroup & AutoScaling Group: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/parameters-section-structure.html <br/>
+Output Section: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/outputs-section-structure.html<br/>
+Architecture with bastion for more security: https://docs.aws.amazon.com/quickstart/latest/linux-bastion/architecture.html <br/>
+
+
